@@ -1,0 +1,1 @@
+# dns-server-py\n\nZero-dependency Python CLI.\n\n```bash\npython3 dns_server.py\n```\n
